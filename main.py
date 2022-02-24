@@ -3,7 +3,7 @@ from pySmartDL import *
 from scapper import scrappy
 
 
-keywords = ["milf"]
+keywords = ["milf","latina"]
 client = PornHub(keywords)
 
 
